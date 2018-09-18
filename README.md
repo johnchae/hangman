@@ -1,2 +1,2 @@
 # hangman
-Hangman game made in C++
+Hangman game made in C++, March 2018
