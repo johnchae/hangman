@@ -1,2 +1,2 @@
 # hangman
-Hangman game made in C++, March 2015
+Hangman game made in C++ using SDL2
